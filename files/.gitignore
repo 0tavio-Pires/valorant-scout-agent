@@ -1,0 +1,14 @@
+# Cache do seu Scraper
+.cache/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais (se você usar)
+venv/
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
